@@ -20,6 +20,6 @@ def output_array(message)
   counter = 0
   while counter < message.length
     puts message[counter]
-    counter += 0
+    counter += 1
   end
 end
