@@ -17,5 +17,9 @@ def loop_message_n_times(message , n)
 end
 
 def output_array(message)
-  
+  counter = 0
+  while counter < array.length
+    puts array[counter]
+    counter += 0
+  end
 end
