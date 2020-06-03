@@ -12,6 +12,6 @@ def loop_message_n_times(message , n)
   counter = 0
   while counter < n
     puts message
-    counter += 0
+    counter += 1
   end
 end
